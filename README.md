@@ -1,2 +1,2 @@
 # jetbrains-reset
-Reset Idea/WebStorm/DataGrip/PhpStorm/CLion/PyCharm/GoLand/RubyMine/Rider
+Reset IntelliJIdea/WebStorm/DataGrip/PhpStorm/CLion/PyCharm/GoLand/RubyMine/Rider
