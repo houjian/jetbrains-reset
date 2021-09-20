@@ -1,2 +1,10 @@
 # jetbrains-reset
-Reset IntelliJIdea/WebStorm/DataGrip/PhpStorm/CLion/PyCharm/GoLand/RubyMine/Rider
+
+重置`JetBrains IDE`试用期
+
+执行流程：
+
+1. 删除`eval`目录、
+2. 修改`options`配置文件
+3. 删除注册表`HKEY_CURRENT_USER\Software\JavaSoft\Prefs\jetbrains`下的对应项目
+

@@ -1,13 +1,3 @@
-::
-:: 重置 jetbrains 产品的试用期
-::
-:: 30天试用期过了之后执行又可以重新试用
-:: 原理:
-::   1. 删除 eval 目录
-::   2. 修改 options 文件配置
-::   3. 删除注册表 HKEY_CURRENT_USER\Software\JavaSoft\Prefs\jetbrains 下的对应项目
-::
-
 @echo off
 set pwd=%~dp0
 
